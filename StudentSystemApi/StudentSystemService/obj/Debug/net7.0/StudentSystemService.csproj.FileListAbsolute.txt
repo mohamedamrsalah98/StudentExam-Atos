@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSystemService\bin\Debug\net7.0\StudentSystemService.deps.json
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSystemService\bin\Debug\net7.0\StudentSystemService.dll
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSystemService\bin\Debug\net7.0\StudentSystemService.pdb
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSystemService\bin\Debug\net7.0\StudentSystemRepository.dll
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSystemService\bin\Debug\net7.0\StudentSystemRepository.pdb
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSystemService\obj\Debug\net7.0\StudentSystemService.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSystemService\obj\Debug\net7.0\StudentSystemService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSystemService\obj\Debug\net7.0\StudentSystemService.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSystemService\obj\Debug\net7.0\StudentSystemService.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSystemService\obj\Debug\net7.0\StudentSystemService.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSystemService\obj\Debug\net7.0\StudentSystemService.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSystemService\obj\Debug\net7.0\StudentSystemService.dll
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSystemService\obj\Debug\net7.0\refint\StudentSystemService.dll
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSystemService\obj\Debug\net7.0\StudentSystemService.pdb
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSystemService\obj\Debug\net7.0\ref\StudentSystemService.dll
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSystemService\bin\Debug\net7.0\StudentSytemData.dll
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSystemService\bin\Debug\net7.0\StudentSytemData.pdb

@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSytemData\bin\Debug\net7.0\StudentSytemData.deps.json
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSytemData\bin\Debug\net7.0\StudentSytemData.dll
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSytemData\bin\Debug\net7.0\StudentSytemData.pdb
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSytemData\obj\Debug\net7.0\StudentSytemData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSytemData\obj\Debug\net7.0\StudentSytemData.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSytemData\obj\Debug\net7.0\StudentSytemData.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSytemData\obj\Debug\net7.0\StudentSytemData.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSytemData\obj\Debug\net7.0\StudentSytemData.dll
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSytemData\obj\Debug\net7.0\refint\StudentSytemData.dll
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSytemData\obj\Debug\net7.0\StudentSytemData.pdb
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSytemData\obj\Debug\net7.0\ref\StudentSytemData.dll
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSytemData\bin\Debug\net7.0\StudentSytemData.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSytemData\obj\Debug\net7.0\StudentSytemData.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Student\StudentSystemApi\StudentSytemData\obj\Debug\net7.0\StudentSytemData.genruntimeconfig.cache
